@@ -8,8 +8,7 @@ This is an example of how a ruby client can access the Windward RESTful engine.
 2. All gems listed in Gemfile 
 3. This is easily done by running the command "bundle install" within the RESTfulEngine_RubyClient directory
 
-Instructions
-
+##Instructions
 1. Clone this repository
 2. CD into the RESTfulEngine_RubyClient directory
 3. Run the command "bundle install" to insure you have all necessary ruby gems
